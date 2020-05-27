@@ -19,4 +19,22 @@ public class GitPractise {
 		}
 		
 	}
+	
+	public void Heloo() {
+		
+		System.out.println("This is a new branch");
+	}
+
+	
+	public void Bye() {
+		
+		System.out.println("This is a New Buye branch");
+	}
+	
+	
+	public void Toast() {
+		
+		System.out.println("This is a Toast branch");
+	}
+	
 }
