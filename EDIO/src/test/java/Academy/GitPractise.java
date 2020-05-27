@@ -12,5 +12,11 @@ public class GitPractise {
 		System.out.println("This is a ddemo class6");
 		System.out.println("This is a ddemo class5");
 		
+		if(1>0) {
+			
+			System.out.println("This is a ddemo class6");
+
+		}
+		
 	}
 }
